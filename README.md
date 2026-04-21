@@ -1,6 +1,6 @@
 # Привет, я Aleksandr Rozov
 
-Начинающий Data Analyst. Собираю портфельные end-to-end проекты в Excel, SQL, Power Query и Power BI. Сейчас изучаю Python и Pandas и готовлюсь к следующему проекту на связке SQL + Python + Power BI.
+Начинающий Data Analyst. Собираю портфельные end-to-end проекты в Excel, SQL, Power Query и Power BI. Сейчас изучаю Python и Pandas. Следующий проект готовлю на связке SQL + Python + Power BI.
 
 ## Основной стек
 - Excel
