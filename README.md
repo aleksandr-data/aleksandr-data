@@ -16,7 +16,7 @@
 
 ## Избранные проекты
 - [Q1 2026 Sales Analysis | Excel, Power Query, DAX, Power BI] (https://github.com/aleksandr-data/q1-2026-sales-analysis-powerbi) *(репозиторий в оформлении)*
-- 
+
 ## Сейчас в работе
 - упаковываю первый end-to-end проект в портфолио;
 - улучшаю оформление dashboard и описание проекта;
