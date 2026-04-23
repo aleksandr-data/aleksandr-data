@@ -18,9 +18,9 @@
 - [Q1 2026 Sales Analysis | Excel, Power Query, DAX, Power BI](https://github.com/aleksandr-data/q1-2026-sales-analysis-powerbi)
 
 ## Сейчас в работе
-- упаковываю первый end-to-end проект в портфолио;
-- улучшаю оформление dashboard и описание проекта;
-- готовлю следующий проект на связке SQL, Python (Pandas) и Power BI.
+- первый портфельный проект по Power BI уже собран и оформлен;
+- готовлю следующий проект на связке SQL, Python (Pandas) и Power BI;
+- усиливаю портфолио под первый оффер на позицию Data Analyst.
 
 ## Формат работы
 Russia | Open to remote
