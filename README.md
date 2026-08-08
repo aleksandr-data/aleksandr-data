@@ -1,23 +1,63 @@
 # Привет, я Aleksandr Rozov
 
-Начинающий Data Analyst. Собираю портфельные end-to-end проекты по аналитике данных: от подготовки данных и SQL-пайплайна до построения модели данных и dashboard в Power BI.
+Начинающий Data Analyst, ориентированный на первую позицию Junior Data Analyst.
 
-Сейчас мой основной фокус — выход на первую позицию Data Analyst. В дальнейшем планирую развиваться в сторону Data Engineering.
+Собираю end-to-end аналитические проекты: от получения и подготовки данных, проверок качества и анализа в Python / SQL до построения модели данных и интерактивного Dashboard в Power BI.
+
+В дальнейшем планирую развиваться в сторону Data Engineering.
 
 ## Основной стек
 
 - SQL
 - PostgreSQL
+- Python
+- pandas
+- NumPy
+- Matplotlib
+- REST API / JSON
 - Power BI
 - Power Query
 - DAX
 - Excel
 - Git / GitHub
-- Python и Pandas — в изучении
 
 ## Избранные проекты
 
-### 1. Olist Marketplace Analytics | PostgreSQL, SQL, Power BI
+### 1. Russian Data Analytics Job Market | Python, pandas, HH API, Matplotlib, Power BI
+
+Исследование российского рынка аналитических вакансий на основе данных HeadHunter.
+
+Проанализированы 2 244 вакансии за период с 27 июня по 26 июля 2026 года.
+
+Что сделано:
+
+- получение данных через HeadHunter API;
+- работа с JSON и API-справочниками;
+- сбор подробных данных по вакансиям;
+- дедупликация и проверка релевантности;
+- проверки качества данных;
+- подготовка аналитического датасета в Python и pandas;
+- анализ аналитических сегментов;
+- анализ требований к опыту;
+- анализ востребованных технических навыков;
+- анализ форматов работы;
+- анализ зарплатной прозрачности и опубликованных зарплат;
+- визуализация результатов в Matplotlib;
+- построение интерактивного Dashboard в Power BI;
+- подготовка воспроизводимой структуры проекта.
+
+Аналитические сегменты:
+
+- Data Analyst / BI Analyst;
+- Product Analyst;
+- Marketing Analyst;
+- Business Analyst — сравнительный сегмент.
+
+[Открыть проект](https://github.com/aleksandr-data/russian-data-analytics-job-market)
+
+---
+
+### 2. Olist Marketplace Analytics | PostgreSQL, SQL, Power BI
 
 End-to-end проект по анализу e-commerce marketplace.
 
@@ -25,42 +65,45 @@ End-to-end проект по анализу e-commerce marketplace.
 
 - загрузка исходных CSV-файлов в PostgreSQL;
 - создание raw layer;
-- data profiling;
+- профилирование данных;
 - проверки качества данных;
-- clean layer;
-- mart layer;
-- fact/dim модель;
-- model integrity checks;
-- Power BI dashboard;
+- формирование clean и rejected layers;
+- создание аналитических витрин;
+- построение fact/dim модели;
+- проверки целостности модели;
+- аналитические SQL-запросы;
+- построение Dashboard в Power BI;
 - упаковка проекта на GitHub.
 
-Проект показывает полный аналитический pipeline: от сырых данных до интерактивного dashboard.
+Проект демонстрирует полный аналитический pipeline: от сырых данных до интерактивного Dashboard.
 
 [Открыть проект](https://github.com/aleksandr-data/olist-marketplace-analytics-sql-powerbi)
 
 ---
 
-### 2. Q1 2026 Sales Analysis | Excel, Power Query, DAX, Power BI
+### 3. Q1 2026 Sales Analysis | Excel, Power Query, DAX, Power BI
 
-Первый портфельный проект по анализу продаж.
+Портфельный проект по анализу продаж на синтетическом датасете.
 
 Что сделано:
 
-- подготовка синтетического датасета продаж;
+- подготовка датасета продаж;
 - очистка и обработка данных в Power Query;
 - построение fact/dim модели;
 - создание DAX-мер;
-- построение Power BI dashboard;
+- анализ основных показателей продаж;
+- построение Dashboard в Power BI;
 - оформление проекта для GitHub.
 
 [Открыть проект](https://github.com/aleksandr-data/q1-2026-sales-analysis-powerbi)
 
-## Сейчас в работе
+## Текущий фокус
 
-- закрепление SQL и PostgreSQL на практических проектах;
-- изучение Python и Pandas;
-- подготовка следующего проекта с Python + SQL + Power BI;
-- подготовка к откликам на позиции Junior Data Analyst.
+- выход на первую позицию Junior Data Analyst;
+- отклики на вакансии;
+- закрепление SQL и PostgreSQL на практике;
+- дальнейшее развитие Python и pandas;
+- развитие навыков аналитики на реальных данных.
 
 ## Формат работы
 
